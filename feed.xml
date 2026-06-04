@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>echinocoaching-publii</title>
+    <link href="https://github.com/Construxz/echinocoaching-publii/feed.xml" rel="self" />
+    <link href="https://github.com/Construxz/echinocoaching-publii" />
+    <updated>2026-06-04T05:49:46+02:00</updated>
+    <author>
+        <name>Alex</name>
+    </author>
+    <id>https://github.com/Construxz/echinocoaching-publii</id>
+
+    <entry>
+        <title>Rituale</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://github.com/Construxz/echinocoaching-publii/rituale.html"/>
+        <id>https://github.com/Construxz/echinocoaching-publii/rituale.html</id>
+            <category term="Rituale"/>
+
+        <updated>2026-06-04T05:49:46+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ausbildung</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://github.com/Construxz/echinocoaching-publii/ausbildung.html"/>
+        <id>https://github.com/Construxz/echinocoaching-publii/ausbildung.html</id>
+            <category term="Ausbildung"/>
+
+        <updated>2026-06-04T05:49:30+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Seminare</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://github.com/Construxz/echinocoaching-publii/seminare.html"/>
+        <id>https://github.com/Construxz/echinocoaching-publii/seminare.html</id>
+            <category term="Seminare"/>
+
+        <updated>2026-06-04T05:49:06+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Reisen</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://github.com/Construxz/echinocoaching-publii/reisen.html"/>
+        <id>https://github.com/Construxz/echinocoaching-publii/reisen.html</id>
+            <category term="Reisen"/>
+
+        <updated>2026-06-04T05:47:58+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
