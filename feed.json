@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "echinocoaching-publii",
     "description": "",
-    "home_page_url": "https://github.com/Construxz/echinocoaching-publii",
-    "feed_url": "https://github.com/Construxz/echinocoaching-publii/feed.json",
+    "home_page_url": "https://construxz.github.io/echinocoaching-publii",
+    "feed_url": "https://construxz.github.io/echinocoaching-publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alex"
     },
     "items": [
         {
-            "id": "https://github.com/Construxz/echinocoaching-publii/rituale.html",
-            "url": "https://github.com/Construxz/echinocoaching-publii/rituale.html",
+            "id": "https://construxz.github.io/echinocoaching-publii/rituale.html",
+            "url": "https://construxz.github.io/echinocoaching-publii/rituale.html",
             "title": "Rituale",
             "author": {
                 "name": "Alex"
@@ -23,8 +23,8 @@
             "date_modified": "2026-06-04T05:49:46+02:00"
         },
         {
-            "id": "https://github.com/Construxz/echinocoaching-publii/ausbildung.html",
-            "url": "https://github.com/Construxz/echinocoaching-publii/ausbildung.html",
+            "id": "https://construxz.github.io/echinocoaching-publii/ausbildung.html",
+            "url": "https://construxz.github.io/echinocoaching-publii/ausbildung.html",
             "title": "Ausbildung",
             "author": {
                 "name": "Alex"
@@ -36,8 +36,8 @@
             "date_modified": "2026-06-04T05:49:30+02:00"
         },
         {
-            "id": "https://github.com/Construxz/echinocoaching-publii/seminare.html",
-            "url": "https://github.com/Construxz/echinocoaching-publii/seminare.html",
+            "id": "https://construxz.github.io/echinocoaching-publii/seminare.html",
+            "url": "https://construxz.github.io/echinocoaching-publii/seminare.html",
             "title": "Seminare",
             "author": {
                 "name": "Alex"
@@ -49,8 +49,8 @@
             "date_modified": "2026-06-04T05:49:06+02:00"
         },
         {
-            "id": "https://github.com/Construxz/echinocoaching-publii/reisen.html",
-            "url": "https://github.com/Construxz/echinocoaching-publii/reisen.html",
+            "id": "https://construxz.github.io/echinocoaching-publii/reisen.html",
+            "url": "https://construxz.github.io/echinocoaching-publii/reisen.html",
             "title": "Reisen",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
